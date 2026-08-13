@@ -1,24 +1,37 @@
-Muhammad Awais
-Full-Stack Software Developer
+# Muhammad Awais
 
-Web Applications
-Mobile Applications
-Browser Extensions
-Existing Codebase Development
-Debugging & Problem Solving
-API Integration
-AI-Assisted Development
+### Full-Stack Software Developer
 
-Aur tools/technologies mein naturally:
+I build, debug, and improve **web applications, mobile applications, browser extensions, and existing software codebases**.
 
-JavaScript • React • Next.js • Node.js • REST APIs • Git/GitHub
-Claude • Cursor • OpenCode
+My focus is on understanding application logic, solving technical problems, developing features, integrating APIs, and delivering reliable software using hands-on development with AI-assisted workflows.
 
-Phir Currently Building mein:
+## What I Work On
 
-Plover Privacy — Privacy extension for WhatsApp Web
-Plover Filler — Browser extension for smarter form filling/testing
+- Full-Stack Software Development
+- Web Applications
+- Mobile Applications
+- Browser Extensions
+- Existing Codebase Development
+- Debugging & Problem Solving
+- API Integration
+- Feature Development & Improvement
 
-Aur bottom par:
+## Technologies & Tools
 
-Linked In: https://www.linkedin.com/in/muhammadawaisdeveloper/  Email: dev.awais.10@gmail.com
+**JavaScript • React • Next.js • Node.js • REST APIs • Git • GitHub**
+
+**AI-Assisted Development:** Claude • Cursor • OpenCode
+
+## Currently Building
+
+**Plover Privacy** — A privacy-focused browser extension for WhatsApp Web.
+
+**Plover Filler** — A browser extension for smarter web form filling and testing workflows.
+
+> Both projects are currently in active development.
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammadawaisdeveloper/
+- Email: dev.awais.10@gmail.com
