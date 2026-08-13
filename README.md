@@ -1,16 +1,24 @@
-## Hi there 👋
+Muhammad Awais
+Full-Stack Software Developer
 
-<!--
-**Muhammad-Awais-10/Muhammad-Awais-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Applications
+Mobile Applications
+Browser Extensions
+Existing Codebase Development
+Debugging & Problem Solving
+API Integration
+AI-Assisted Development
 
-Here are some ideas to get you started:
+Aur tools/technologies mein naturally:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript • React • Next.js • Node.js • REST APIs • Git/GitHub
+Claude • Cursor • OpenCode
+
+Phir Currently Building mein:
+
+Plover Privacy — Privacy extension for WhatsApp Web
+Plover Filler — Browser extension for smarter form filling/testing
+
+Aur bottom par:
+
+Linked In: https://www.linkedin.com/in/muhammadawaisdeveloper/  Email: dev.awais.10@gmail.com
